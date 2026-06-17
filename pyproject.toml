@@ -10,7 +10,7 @@ keywords = ["mcp", "huawei", "hcso", "roma", "api-gateway"]
 
 dependencies = [
     "mcp>=1.0.0",
-    "huaweicloudsdkcore==3.1.191",
+    "huaweicloudsdkcore==3.1.199",
     "huaweicloudsdkroma==3.1.191",
     "uvicorn>=0.30.0",
 ]
